@@ -14,7 +14,7 @@ metadata:
     backstage.io/kubernetes-id: pp 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: pp
-    nexus-repository-manager/docker.image-name: admin/python
+    nexus-repository-manager/docker.image-name: sample/hello
   tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
 spec:
   type: service
